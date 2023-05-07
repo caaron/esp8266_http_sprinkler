@@ -29,4 +29,7 @@ print('Connection successful')
 print(station.ifconfig())
 
 led = Pin(2, Pin.OUT)
+led2 = Pin(16, Pin.OUT)
+
+
 
