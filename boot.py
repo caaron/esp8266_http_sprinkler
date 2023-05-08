@@ -30,6 +30,6 @@ print(station.ifconfig())
 
 led = Pin(2, Pin.OUT)
 led2 = Pin(16, Pin.OUT)
-
+rly = Pin(5,Pin.OUT)
 
 
